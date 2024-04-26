@@ -1,0 +1,24 @@
+.section-banner{
+    width: 120rem;
+    height: 30rem;
+    margin: auto;
+    
+    display: flex;
+    align-items: center;
+    padding: 0.1rem;
+}
+.box_img{
+    width: 120rem;
+    height: 30rem;
+}
+.section_banner{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+.box_img2{
+    width: 100%;
+    height: 100%;
+}
+
